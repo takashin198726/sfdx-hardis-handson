@@ -325,17 +325,17 @@ nav:
           UnlinkLeadFromMusubuUseCaseTest: apex/UnlinkLeadFromMusubuUseCaseTest.md
       - Lightning Web Components:
           All Lightning Web Components: lwc/index.md
-          relatedLogEntries: lwc/relatedLogEntries.md
           loggerSettings: lwc/loggerSettings.md
-          loggerPageSection: lwc/loggerPageSection.md
+          relatedLogEntries: lwc/relatedLogEntries.md
           loggerHomeHeader: lwc/loggerHomeHeader.md
+          loggerPageSection: lwc/loggerPageSection.md
           loggerCodeViewer: lwc/loggerCodeViewer.md
-          logger: lwc/logger.md
-          logViewer: lwc/logViewer.md
           logOrganizationLimits: lwc/logOrganizationLimits.md
+          logViewer: lwc/logViewer.md
+          logger: lwc/logger.md
           logEntryMetadataViewer: lwc/logEntryMetadataViewer.md
-          logEntryEventStream: lwc/logEntryEventStream.md
           logBatchPurge: lwc/logBatchPurge.md
+          logEntryEventStream: lwc/logEntryEventStream.md
   - Lightning Pages:
       All Lightning pages: pages/index.md
       AcademicOperations_UtilityBar: pages/AcademicOperations_UtilityBar.md

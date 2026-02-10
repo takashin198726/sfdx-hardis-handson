@@ -1,0 +1,4 @@
+AppName,NumberOfUnsecuredOAuthTokens,LatestUsageDate,ProfilesOfUsersUsingIt
+GitHub Actions CI/CD,1,2025-12-23,システム管理者
+Salesforce CLI,5,2026-02-10,システム管理者
+orgfarm_app_1,2,2025-12-19,システム管理者
