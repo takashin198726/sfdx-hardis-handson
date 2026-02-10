@@ -1,0 +1,6 @@
+projectName: sfdx_hardis_handson
+developmentBranch: integration
+autoCleanTypes:
+  - destructivechanges
+  - flowPositions
+  - minimizeProfiles
