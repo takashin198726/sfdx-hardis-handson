@@ -12,11 +12,13 @@ hide:
 ```mermaid
 graph TD
 LoggerScenario__c["Logger Scenario"]:::customObject
+click LoggerScenario__c "/objects/LoggerScenario__c/"
 Log__c["Log"]:::customObject
 click Log__c "/objects/Log__c/"
+LogEntryTag__c["Log Entry Tag"]:::customObject
+click LogEntryTag__c "/objects/LogEntryTag__c/"
 LogEntry__c["Log Entry"]:::mainObject
 click LogEntry__c "/objects/LogEntry__c/"
-LogEntryTag__c["Log Entry Tag"]:::customObject
 
 Log__c -->|TransactionScenario__c| LoggerScenario__c
 Log__c -->|ParentLog__c| Log__c

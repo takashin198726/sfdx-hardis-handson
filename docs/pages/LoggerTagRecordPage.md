@@ -12,7 +12,7 @@ hide:
 
 |<!-- -->|<!-- -->|
 |:---|:---|
-|Sobject Type|LoggerTag__c|
+|Sobject Type|[LoggerTag__c](../objects/LoggerTag__c.md)|
 |Type| Record Page|
 |Master Label|Nebula Logger: Logger Tag Record Page|
 |Template|flexipage:recordHomeSingleColTemplateDesktop|

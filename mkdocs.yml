@@ -112,6 +112,36 @@ nav:
           High_Value_Opportunity_Task_Creation: flows/High_Value_Opportunity_Task_Creation.md
           TestFlow: flows/TestFlow.md
   - Authorizations:
+      - Permission Set Groups:
+          All Permission Set Groups: permissionsetgroups/index.md
+          force__AgentforceServiceAgentUserPsg: permissionsetgroups/force__AgentforceServiceAgentUserPsg.md
+          force__Commerce_Shopper: permissionsetgroups/force__Commerce_Shopper.md
+          force__CopilotSalesforceAdminPSG: permissionsetgroups/force__CopilotSalesforceAdminPSG.md
+          force__CopilotSalesforceUserPSG: permissionsetgroups/force__CopilotSalesforceUserPSG.md
+          force__Enablement_Admin: permissionsetgroups/force__Enablement_Admin.md
+          force__Enablement_Resources_Manager: permissionsetgroups/force__Enablement_Resources_Manager.md
+          force__Enablement_User: permissionsetgroups/force__Enablement_User.md
+          force__Partner_Enablement_User: permissionsetgroups/force__Partner_Enablement_User.md
+          force__SubscriptionManagementBillingAdmin: permissionsetgroups/force__SubscriptionManagementBillingAdmin.md
+          force__SubscriptionManagementBillingOperations: permissionsetgroups/force__SubscriptionManagementBillingOperations.md
+          force__SubscriptionManagementBuyerIntegrationUser: permissionsetgroups/force__SubscriptionManagementBuyerIntegrationUser.md
+          force__SubscriptionManagementCollections: permissionsetgroups/force__SubscriptionManagementCollections.md
+          force__SubscriptionManagementCreditMemoAdjustmentsOperations: permissionsetgroups/force__SubscriptionManagementCreditMemoAdjustmentsOperations.md
+          force__SubscriptionManagementPaymentAdministrator: permissionsetgroups/force__SubscriptionManagementPaymentAdministrator.md
+          force__SubscriptionManagementPaymentOperations: permissionsetgroups/force__SubscriptionManagementPaymentOperations.md
+          force__SubscriptionManagementProductAndPricingAdmin: permissionsetgroups/force__SubscriptionManagementProductAndPricingAdmin.md
+          force__SubscriptionManagementSalesOperationsRep: permissionsetgroups/force__SubscriptionManagementSalesOperationsRep.md
+          force__SubscriptionManagementSalesRep: permissionsetgroups/force__SubscriptionManagementSalesRep.md
+          force__SubscriptionManagementTaxAdmin: permissionsetgroups/force__SubscriptionManagementTaxAdmin.md
+      - Permission Sets:
+          All Permission Sets: permissionsets/index.md
+          Experience_Profile_Manager: permissionsets/Experience_Profile_Manager.md
+          LoggerAdmin: permissionsets/LoggerAdmin.md
+          LoggerEndUser: permissionsets/LoggerEndUser.md
+          LoggerLogCreator: permissionsets/LoggerLogCreator.md
+          LoggerLogViewer: permissionsets/LoggerLogViewer.md
+          MusubuCompanyAccess: permissionsets/MusubuCompanyAccess.md
+          sfdcInternalInt__sfdc_scrt2: permissionsets/sfdcInternalInt__sfdc_scrt2.md
       - Profiles:
           All Profiles: profiles/index.md
           Admin: profiles/Admin.md
@@ -157,36 +187,6 @@ nav:
           Standard: profiles/Standard.md
           StandardAul: profiles/StandardAul.md
           Work%2Ecom Only User: profiles/Work%2Ecom Only User.md
-      - Permission Set Groups:
-          All Permission Set Groups: permissionsetgroups/index.md
-          force__AgentforceServiceAgentUserPsg: permissionsetgroups/force__AgentforceServiceAgentUserPsg.md
-          force__Commerce_Shopper: permissionsetgroups/force__Commerce_Shopper.md
-          force__CopilotSalesforceAdminPSG: permissionsetgroups/force__CopilotSalesforceAdminPSG.md
-          force__CopilotSalesforceUserPSG: permissionsetgroups/force__CopilotSalesforceUserPSG.md
-          force__Enablement_Admin: permissionsetgroups/force__Enablement_Admin.md
-          force__Enablement_Resources_Manager: permissionsetgroups/force__Enablement_Resources_Manager.md
-          force__Enablement_User: permissionsetgroups/force__Enablement_User.md
-          force__Partner_Enablement_User: permissionsetgroups/force__Partner_Enablement_User.md
-          force__SubscriptionManagementBillingAdmin: permissionsetgroups/force__SubscriptionManagementBillingAdmin.md
-          force__SubscriptionManagementBillingOperations: permissionsetgroups/force__SubscriptionManagementBillingOperations.md
-          force__SubscriptionManagementBuyerIntegrationUser: permissionsetgroups/force__SubscriptionManagementBuyerIntegrationUser.md
-          force__SubscriptionManagementCollections: permissionsetgroups/force__SubscriptionManagementCollections.md
-          force__SubscriptionManagementCreditMemoAdjustmentsOperations: permissionsetgroups/force__SubscriptionManagementCreditMemoAdjustmentsOperations.md
-          force__SubscriptionManagementPaymentAdministrator: permissionsetgroups/force__SubscriptionManagementPaymentAdministrator.md
-          force__SubscriptionManagementPaymentOperations: permissionsetgroups/force__SubscriptionManagementPaymentOperations.md
-          force__SubscriptionManagementProductAndPricingAdmin: permissionsetgroups/force__SubscriptionManagementProductAndPricingAdmin.md
-          force__SubscriptionManagementSalesOperationsRep: permissionsetgroups/force__SubscriptionManagementSalesOperationsRep.md
-          force__SubscriptionManagementSalesRep: permissionsetgroups/force__SubscriptionManagementSalesRep.md
-          force__SubscriptionManagementTaxAdmin: permissionsetgroups/force__SubscriptionManagementTaxAdmin.md
-      - Permission Sets:
-          All Permission Sets: permissionsets/index.md
-          Experience_Profile_Manager: permissionsets/Experience_Profile_Manager.md
-          LoggerAdmin: permissionsets/LoggerAdmin.md
-          LoggerEndUser: permissionsets/LoggerEndUser.md
-          LoggerLogCreator: permissionsets/LoggerLogCreator.md
-          LoggerLogViewer: permissionsets/LoggerLogViewer.md
-          MusubuCompanyAccess: permissionsets/MusubuCompanyAccess.md
-          sfdcInternalInt__sfdc_scrt2: permissionsets/sfdcInternalInt__sfdc_scrt2.md
   - Code:
       - Apex:
           All Apex Classes: apex/index.md

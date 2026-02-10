@@ -12,6 +12,7 @@ hide:
 ```mermaid
 graph TD
 MusubuCompany__c["結ぶ法人情報"]:::customObject
+click MusubuCompany__c "/objects/MusubuCompany__c/"
 Lead["Lead"]:::mainObject
 click Lead "/objects/Lead/"
 

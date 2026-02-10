@@ -12,10 +12,11 @@ hide:
 ```mermaid
 graph TD
 LoggerTag__c["Logger Tag"]:::customObject
-LogEntry__c["Log Entry"]:::customObject
-click LogEntry__c "/objects/LogEntry__c/"
+click LoggerTag__c "/objects/LoggerTag__c/"
 LogEntryTag__c["Log Entry Tag"]:::mainObject
 click LogEntryTag__c "/objects/LogEntryTag__c/"
+LogEntry__c["Log Entry"]:::customObject
+click LogEntry__c "/objects/LogEntry__c/"
 
 LogEntryTag__c ==>|Tag__c| LoggerTag__c
 LogEntryTag__c ==>|LogEntry__c| LogEntry__c

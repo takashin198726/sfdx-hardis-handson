@@ -295,6 +295,7 @@
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
+        <members>Account.TestField__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>

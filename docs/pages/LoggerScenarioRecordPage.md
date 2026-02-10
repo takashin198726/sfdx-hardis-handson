@@ -12,7 +12,7 @@ hide:
 
 |<!-- -->|<!-- -->|
 |:---|:---|
-|Sobject Type|LoggerScenario__c|
+|Sobject Type|[LoggerScenario__c](../objects/LoggerScenario__c.md)|
 |Type| Record Page|
 |Master Label|Nebula Logger: Logger Scenario Record Page|
 |Template|flexipage:recordHomeSingleColTemplateDesktop|

@@ -12,7 +12,7 @@ hide:
 
 |<!-- -->|<!-- -->|
 |:---|:---|
-|Sobject Type|Log__c|
+|Sobject Type|[Log__c](../objects/Log__c.md)|
 |Type| Record Page|
 |Master Label|Nebula Logger: Log Record Page|
 |Template|flexipage:recordHomeSimpleViewTemplate|

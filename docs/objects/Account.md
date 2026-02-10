@@ -61,6 +61,7 @@ classDef mainObject fill:#FFB3B3,stroke:#A94442,stroke-width:4px,rx:14px,ry:14px
 | SLA__c | SLA | Picklist | undefined |
 | SLAExpirationDate__c | SLA Expiration Date | Date | undefined |
 | SLASerialNumber__c | SLA Serial Number | Text | undefined |
+| TestField__c | TestField | Text | undefined |
 | TickerSymbol |  |  | undefined |
 | Tier |  |  | undefined |
 | Tradestyle |  |  | undefined |
